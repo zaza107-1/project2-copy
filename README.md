@@ -1,7 +1,8 @@
 
 # Bank Marketing Classification with AutoML
 
-We will do AutoML usign the designer and then we will create, publish and consume a Pipeline using the Python SDK.
+We will do AutoML using the designer and then we will create, publish and consume a Pipeline using the Python SDK.
+
 
 ## Architectural Diagram
 
