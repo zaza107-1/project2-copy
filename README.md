@@ -21,7 +21,7 @@ We will do AutoML using the designer and then we will create, publish and consum
     ![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/dataset_auto_ML_bank_marketing.jpg)
 
     - Experiment is complete
-    ![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/Auto_ML_Completed.jpg)
+    ![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/experiment_completed.jpg)
 
     - Screenshot of the best model
     ![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/Auto_ML_Best_Model.jpg)
