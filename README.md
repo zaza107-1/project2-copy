@@ -5,7 +5,7 @@ We will do AutoML using the designer and then we will create, publish and consum
 We used the ML Studio to process the model. We got a dataset, uploaded to the ML Studio and then we created an Auto_ML experiment. Before we configure a compute cluster.
 We run the experiment using Classification models. The ML Studio tested with different models and we got the best model according to their accuracy.
 After that we deploy the model and enable the authentication using the ML Studio.
-This model could be consumed through an Endpoint available as a webservice. 
+This model could be consumed through an Endpoint available as a webservice. You can use different data from different sources.
 
 
 ## Architectural Diagram
