@@ -10,7 +10,7 @@ This model could be consumed through an Endpoint available as a webservice. You 
 
 ## Architectural Diagram
 
-![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/Arch%20Diagram.drawio)
+![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/Arch%20Diagram.png)
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
