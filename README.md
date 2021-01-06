@@ -18,7 +18,7 @@ We will do AutoML using the designer and then we will create, publish and consum
 5. Run the experiment using Classification
 
     - Registered Dataset
-    ![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/dataset_auto_ML_bank_marketing.jpg)
+    ![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/Dataset_%20registered.jpg)
 
     - Experiment is complete
     ![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/experiment_completed.jpg)
