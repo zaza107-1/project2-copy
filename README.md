@@ -2,11 +2,15 @@
 # Bank Marketing Classification with AutoML
 
 We will do AutoML using the designer and then we will create, publish and consume a Pipeline using the Python SDK.
+We used the ML Studio to process the model. We got a dataset, uploaded to the ML Studio and then we created an Auto_ML experiment. Before we configure a compute cluster.
+We run the experiment using Classification models. The ML Studio tested with different models and we got the best model according to their accuracy.
+After that we deploy the model and enable the authentication using the ML Studio.
+This model could be consumed through an Endpoint available as a webservice. 
 
 
 ## Architectural Diagram
 
-![](https://github.com/zaza107-1/project2-copy/blob/main/Project_2.drawio)
+![](https://github.com/zaza107-1/project2-copy/blob/main/Screenshots/Arch%20Diagram.drawio)
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps. 
